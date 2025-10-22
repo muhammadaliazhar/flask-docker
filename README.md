@@ -3,7 +3,7 @@
 # Step 1
 
 ```bash
- git clone https://github.com/muhammadaliazhar/flask-docker.git
+ git clone https://github.com/muhammadaliazhar/PythonApp-docker.git
 ```
 
 # Step 2
