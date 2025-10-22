@@ -40,6 +40,13 @@ docker logs <container-id>
 
 <img width="1513" height="441" alt="image" src="https://github.com/user-attachments/assets/8cbfdfc4-7020-4956-b3f7-c91ecd4cca86" />
 
+# Real-time container logs
+To see real time logs of a docker container we use attach command, this will attach our host terminal with the container terminal
+
+```bash
+docker attach <container-id
+```
+
 
 
 
